@@ -155,4 +155,4 @@ Keep those numbers in mind before deciding to use reflection :)
 License
 -------
 
-**Reflector** is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+**Reflector** is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
