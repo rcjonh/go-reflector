@@ -148,7 +148,7 @@ If you make any changes to the library, run `make test-performance` to check per
         duration: 0.005237s
     --- PASS: TestPerformancePlain (0.01s)
     PASS
-    ok      github.com/tkrajina/go-reflector/reflector      4.285s
+    ok      github.com/abdel125/go-reflector/reflector      4.285s
 
 Keep those numbers in mind before deciding to use reflection :)
 
